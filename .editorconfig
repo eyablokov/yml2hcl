@@ -1,0 +1,19 @@
+[*.go]
+indent_size = 4
+indent_style = tab
+
+[*.mod]
+indent_size = 4
+indent_style = tab
+
+[*.py]
+indent_size = 4
+indent_style = space
+
+[*.tf]
+indent_size = 4
+indent_style = space
+
+[*.yml]
+indent_size = 4
+indent_style = space
